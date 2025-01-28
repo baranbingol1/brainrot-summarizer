@@ -30,8 +30,8 @@ python create_brainrot.py --document your_document.pdf --out output.mp3
 
 ### Available Options:
 
---document: Path to input PDF file (required)
---out: Path for output audio file (required)
+--document: Path to input PDF file (required)\
+--out: Path for output audio file (required)\
 --voice: ElevenLabs voice model to use (defaults to Brian)
 
 ## Example
